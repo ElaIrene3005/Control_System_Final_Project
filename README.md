@@ -45,10 +45,10 @@ The mechanical system consists of three connected links (such as in a robotic ar
 
 1. Clone this repository.
 2. Install the required Python libraries (if not already installed):
-   '''
+   ```
    pip install numpy scipy matplotlib
-   '''
+   ```
 3. Run the script:
-   '''
+   ```
    python pole_placement_simulation.py
-   '''
+   ```
